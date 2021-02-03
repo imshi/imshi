@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ## A devops Engineer
 
-<!--𝑰 ❤️ 𝑫𝒆𝒗𝒐𝒑𝘀!-->
+𝑰 ❤️ 𝑫𝒆𝒗𝒐𝒑𝘀!
+-->
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
