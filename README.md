@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 𝗛𝗶! 𝗜'𝗺 Alan
 
-𝑰 ❤️ 𝑫𝒆𝒗𝒐𝒑𝘀!
+<!--𝑰 ❤️ 𝑫𝒆𝒗𝒐𝒑𝘀!-->
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
